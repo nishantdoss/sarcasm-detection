@@ -7,4 +7,3 @@ training_history.png
 Sarcasm_Headlines_Dataset*.json
 .cache/
 *.egg-info/
-best_sarcasm_model.pt
