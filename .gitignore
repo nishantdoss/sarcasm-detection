@@ -1,0 +1,10 @@
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+best_sarcasm_model.pt
+training_history.png
+Sarcasm_Headlines_Dataset*.json
+.cache/
+*.egg-info/
+best_sarcasm_model.pt
